@@ -1,0 +1,23 @@
+.Speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    color: #000;
+}
+.Direction{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    background-color: aquamarine;
+}
+.Direction.hover{
+    background-color: orange;
+    color: #000;
+}
+.OLGA{
+    color:bisque;
+}
+.Irina{
+    color:blueviolet;
+}
+.CHEBUTIKIN{
+    color:azure;
+}

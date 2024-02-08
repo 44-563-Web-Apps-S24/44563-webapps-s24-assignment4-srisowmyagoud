@@ -21,6 +21,9 @@
 .CHEBUTIKIN{
     color:azure;
 }
+.TUZENBACH{
+    color: blue;
+}
 table,th,td{
     border: 1px solid bisque;
     border-collapse: collapse;

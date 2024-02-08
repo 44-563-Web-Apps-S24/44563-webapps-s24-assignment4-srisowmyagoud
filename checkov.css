@@ -24,11 +24,20 @@
 .TUZENBACH{
     color: blue;
 }
+.SOLENI{
+    color:beige;
+}
+.SOLENI:hover{
+    text-shadow: 4px 4px yellowgreen;
+    filter:blur(00.50px);
+    border:2px solid blueviolet;
+    width: fit-content;
+}
 table,th,td{
     border: 1px solid bisque;
     border-collapse: collapse;
     border-color: brown;
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     margin: 1px;
 }

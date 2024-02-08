@@ -1,0 +1,43 @@
+.Speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    color: #000;
+}
+.Direction{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    background-color: aquamarine;
+}
+.Direction.hover{
+    background-color: orange;
+    color: #000;
+}
+.OLGA{
+    color:bisque;
+}
+.IRINA{
+    color:blueviolet;
+}
+.CHEBUTIKIN{
+    color:azure;
+}
+.TUZENBACH{
+    color: blue;
+}
+.SOLENI{
+    color:beige;
+}
+.SOLENI:hover{
+    text-shadow: 4px 4px yellowgreen;
+    filter:blur(00.50px);
+    border:2px solid blueviolet;
+    width: fit-content;
+}
+table,th,td{
+    border: 1px solid bisque;
+    border-collapse: collapse;
+    border-color: brown;
+    text-align: center;
+    padding: 15px;
+    margin: 1px;
+}
